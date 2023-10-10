@@ -1,0 +1,6 @@
+Sarah;22
+Joana;27
+Alice;14
+Breno;19
+Andersom;52
+Maria;79
